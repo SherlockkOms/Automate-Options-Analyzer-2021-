@@ -1,0 +1,4 @@
+curr_month = 0
+howfar = 12
+margin = 33
+buffer = 3	
