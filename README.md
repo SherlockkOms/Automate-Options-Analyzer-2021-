@@ -1,5 +1,4 @@
 # Automated Options Analyzer (2021)
-# Automated Option Analyzer (2021)
 
 ## Introduction
 
